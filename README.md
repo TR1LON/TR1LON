@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for TRiLON -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=&duration=2500&pause=3000&color=2CF770&center=true&vCenter=true&repeat=false&random=true&width=435&lines=echo+%22TRiLON%22" alt="Typing SVG" /></a>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=&duration=2500&pause=3000&color=2CF770&center=true&vCenter=true&repeat=false&random=true&width=435&lines=echo+%22TRiLON%22" alt="Typing SVG" />
 </p>
 
 <p align="center">
