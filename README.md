@@ -1,8 +1,6 @@
 <!-- GitHub Profile README for TRiLON -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=echo+%22TRiLON%22;cd+/dev/mind;sudo+make+software" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=&duration=2500&pause=3000&color=2CF770&center=true&vCenter=true&repeat=false&random=true&width=435&lines=echo+%22TRiLON%22)](https://git.io/typing-svg)
 
 <p align="center">
   <strong>Software Engineer</strong> • <strong>Business Analyst</strong> • <strong>Security Enthusiast</strong><br/>
@@ -14,7 +12,7 @@
 ### 🔍 Profile
 
 - 🎓 2nd-year Computer Science @ University of Athens (UoA)
-- 💼 Software Engineer & Business Analyst (working student)
+- 💼 Software Engineer & Business Analyst
 - ⚙️ Specializing in Python, systems programming, and application security
 - 🧠 Focused on automation, exploit development, and backend infrastructure
 
