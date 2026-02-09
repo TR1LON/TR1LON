@@ -13,7 +13,7 @@
 
 ### 🔍 Profile
 
-- 🎓 2nd-year Computer Science @ University of Athens (UoA)
+- 🎓 3rd-year Computer Science @ University of Athens (UoA)
 - 💼 Software Engineer & Business Analyst
 - ⚙️ Specializing in Python, systems programming, and application security
 - 🧠 Focused on automation, exploit development, and backend infrastructure
